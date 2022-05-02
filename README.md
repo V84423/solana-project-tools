@@ -1,4 +1,4 @@
-# solana-project-tools
+# solana-project-tool
 
 NFT 4 Cause develops opensource tools because we believe in giving back to the Solana NFT community. Our mission is to enable projects to focus their funds on developing their community and making progress on their roadmap.
 
